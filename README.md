@@ -4,7 +4,8 @@ Hello! My name is **Laurence** and welcome to my GitHub page! I am currently wor
 
 I also provide customised Python and R scripts for my various data analysis, and am doing 100 days coding exercise in Python.
 
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mashehu&count_private=true&theme=github_dark&showicons=true&hide=stars)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mashehu&langs_count=5&theme=github_dark&layout=compact)]()
 
 <!--
 **LaurenceKuhl/LaurenceKuhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
