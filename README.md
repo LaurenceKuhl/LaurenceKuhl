@@ -1,6 +1,6 @@
 # Welcome to My GitHub Page!
 
-Hello! My name is **Laurence** and welcome to my GitHub page! I am currently working at the **Quantitative Biology Center** as a data analyst, University of Tübingen. I am one of the core maintainers of the awesome [nf-core/crisprseq](https://nf-co.re/crisprseq/2.2.1/):
+Hello! My name is **Laurence Kuhlburger** and welcome to my GitHub page! I am currently working at the **Quantitative Biology Center** as a data analyst, University of Tübingen. I am one of the core maintainers of the awesome [nf-core/crisprseq](https://nf-co.re/crisprseq/2.2.1/):
 
 ![crisprseq_metropmap_all-3](https://github.com/user-attachments/assets/2da18217-0c1a-4dfc-9e97-260328d99fcc)
 
